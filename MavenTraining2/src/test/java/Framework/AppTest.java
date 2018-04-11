@@ -23,7 +23,7 @@ public class AppTest {
 		//set the class
 		DesiredCapabilities cap = new DesiredCapabilities();
 		//set the device type, in this case, emulator
-		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "Nexus5XTest");
+		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "Nexus6Test");
 		//set the app name and path, using the above path
 		cap.setCapability(MobileCapabilityType.APP, fs.getAbsolutePath());
 		//create driver and set the connection to the appium server
