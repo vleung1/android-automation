@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="This is a suite of tests">
-	<test name="These are the test cases">
-	<packages>
-		<package name="testngFiles" />
-		<package name="testngFiles2" />
-	</packages>
-	</test>
-</suite>
