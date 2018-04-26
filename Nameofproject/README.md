@@ -1,0 +1,1 @@
+Test Maven project for troubleshooting config issues seen with build profiles
