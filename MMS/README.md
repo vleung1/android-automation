@@ -1,0 +1,1 @@
+Automating install flow of an app on a real Android device
