@@ -1,0 +1,1 @@
+TestNG framework exercises for class and package level test suite
