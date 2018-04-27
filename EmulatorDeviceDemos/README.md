@@ -1,0 +1,1 @@
+Exercises for Appium locator strategies and gestures for Android
