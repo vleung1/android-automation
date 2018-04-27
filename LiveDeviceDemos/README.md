@@ -1,0 +1,1 @@
+Real device automation using Page Object/Page Factory model
